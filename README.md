@@ -3,10 +3,10 @@
 
 > 想法 → 原型 → 上线，越快越好。
 
-- 🤖 **AI-Native 开发者**：OpenAI Codex、Claude Code 是我的结对编程搭子，专治"有想法没时间"
-- 🔭 **在折腾**：macOS AI 效率工具、小米智能家居自动化、iOS 风小应用
-- 🎮 **Roblox 游戏开发**：数据驱动、服务器权威，一个都不能少
-- 🍎 **资深果粉**：iPhone、Mac 全家桶，新系统发布第一时间升级
+- 🤖 AI-Native 开发：使用 OpenAI Codex、Claude Code 加速原型设计与工程实现
+- 🛠️ 正在折腾：macOS AI 效率工具、智能家居自动化、iOS 小应用
+- 🎮 Roblox 游戏开发：数据驱动、Server-Authoritative Architecture，一个都不能少
+- 🍎 Apple 平台：macOS / iOS 开发与 Apple 生态重度用户
 
 ### 🛠 技术栈 | Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
