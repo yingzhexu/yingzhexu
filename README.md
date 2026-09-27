@@ -12,8 +12,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 
 ### 💡 信条
 - 先跑起来，再跑得快
 - 能自动化的，都不手动
+
